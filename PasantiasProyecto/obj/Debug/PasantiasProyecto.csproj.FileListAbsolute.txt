@@ -1,0 +1,142 @@
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeMitad.resources
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.dll
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.dll
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.pdb
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.pdb
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\source\repos\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.dll
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.dll
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActividad.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeMitad.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDtutor.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCuestionario.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmLogin.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmPrincipal.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmRegistroDeAsistencia.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmSolicitud.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmValidarSolicitud.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerPasantia.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVisualizarEstudiante.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActividad.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeMitad.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDtutor.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCuestionario.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmLogin.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmPrincipal.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmRegistroDeAsistencia.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmSolicitud.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmValidarSolicitud.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerPasantia.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAdministrador.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActor.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAsignarTutor.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerEmpresas.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeJefe.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActividad.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActor.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAsignarTutor.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeJefe.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeMitad.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDtutor.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCuestionario.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmLogin.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmPrincipal.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmRegistroDeAsistencia.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmSolicitud.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmValidarSolicitud.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerEmpresas.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerPasantia.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAdministrador.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe.config
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.exe
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\PasantiasProyecto.pdb
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.dll
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.dll
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaDatos.pdb
+D:\PasantiasProyecto\PasantiasProyecto\bin\Debug\CapaNegocio.pdb
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csprojAssemblyReference.cache
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActividad.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmActor.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAsignarTutor.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeJefe.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDInformeMitad.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCRUDtutor.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmCuestionario.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeJefe.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeMitad.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmInformeSemestral.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmLogin.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmPrincipal.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmRegistroDeAsistencia.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmSolicitud.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmValidarSolicitud.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerEmpresas.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmVerPasantia.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.FrmAdministrador.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.Properties.Resources.resources
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.GenerateResource.cache
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CoreCompileInputs.cache
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.csproj.CopyComplete
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.exe
+D:\PasantiasProyecto\PasantiasProyecto\obj\Debug\PasantiasProyecto.pdb

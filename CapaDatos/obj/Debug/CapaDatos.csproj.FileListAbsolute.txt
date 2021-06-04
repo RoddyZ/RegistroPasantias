@@ -1,0 +1,45 @@
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\kYDke\source\repos\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\kYDke\Documents\PHVPASANTIAS\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\semestre 6\Programacion con herramientas visuales\Proyecto2\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PasantiasProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\PasantiasProyecto\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PasantiasProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
